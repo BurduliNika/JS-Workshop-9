@@ -1,8 +1,3 @@
-🟢 **FACTS**
-Here’s a concise README suitable for your F1 drivers table project.
-
----
-
 # F1 Drivers Championship Table
 
 A simple web app that fetches current F1 drivers’ championship standings from an external API, displays them in a styled table, and allows filtering by driver name. If no driver matches, a prompt notifies the user. Built with HTML, CSS, and JavaScript.
